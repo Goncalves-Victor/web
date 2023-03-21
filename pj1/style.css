@@ -1,0 +1,19 @@
+.card{
+    box-shadow: 8px 7px 15px rgb(201, 199, 199);
+    transition: .5s;
+}
+
+.card:hover{
+    transform: scale(1.03);
+    box-shadow: 10px 10px 25px rgb(146, 145, 145);
+    
+}
+
+.container{
+    padding-top: 20px;
+    
+}
+
+#preco{
+    transition: .6s;
+}
