@@ -1,0 +1,21 @@
+input{
+    padding: .2rem;
+    margin: .4em;
+    border-radius: 3px;
+    border: .2px solid grey;
+    width: 10%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.verde{
+    color: green;
+}
+
+.vermelho{
+    color: red;
+}
